@@ -1,3 +1,4 @@
+import DiscoverSection from "./compponents/DiscoverSection";
 import HeroSection from "./compponents/HeroSection";
 
 
@@ -6,6 +7,7 @@ export default function Home() {
   <main>
   
     <HeroSection/>
+    <DiscoverSection/>
   </main>
   
   </>
